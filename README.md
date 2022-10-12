@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sheshankchandra
+- 👀 I’m interested in Python Projects
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on OpenSource Python Projects
