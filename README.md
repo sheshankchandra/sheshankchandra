@@ -2,7 +2,7 @@
 **sheshankchandra/sheshankchandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=32&pause=400&color=dcdcdc&multiline=true&width=500&height=120&lines=Hello+there!+👋;I'm+Sheshank+Chandra!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=2500&pause=&color=DCDCDC&multiline=true&width=500&height=110&lines=Hello+There!%F0%9F%91%8B;I'm+Sheshank+Chandra!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=sheshankchandra&color=brightgreen)
 
