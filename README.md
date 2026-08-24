@@ -55,13 +55,27 @@ A production-ready, multi-tenant expense-sharing platform for roommates. It pair
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,js,react,angular,python,azure,aws,docker,kubernetes,postgres,mongodb,redis,git,githubactions&perline=16" alt="Core technologies: .NET, C#, TypeScript, JavaScript, React, Angular, Python, Azure, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Git, and GitHub Actions" />
+  <strong>Backend & cloud</strong><br />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker&perline=8" alt=".NET, C#, Microsoft Azure, and Docker" />
+</p>
+
+<p>
+  <strong>Data, messaging & observability</strong><br />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka&perline=8" alt="PostgreSQL, Redis, and Apache Kafka" />
+</p>
+
+<p>
+  <strong>Frontend & workflow</strong><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,git,githubactions&perline=8" alt="TypeScript, JavaScript, Vue.js, Git, and GitHub Actions" />
 </p>
 
 <details>
-  <summary>More technologies I work with</summary>
+  <summary>Architecture, platform & engineering practices</summary>
   <br />
-  ASP.NET Core, EF Core, gRPC, Apache Kafka, Redis, PostgreSQL, SQL Server, Docker, .NET Aspire, Azure DevOps, MSTest, and Moq.
+  <strong>Backend:</strong> ASP.NET Core, EF Core, REST APIs, gRPC, dependency injection<br />
+  <strong>Architecture:</strong> distributed systems, microservices, event-driven design, DDD, CQRS, clean architecture<br />
+  <strong>Platform:</strong> .NET Aspire, Azure Container Apps, Azure DevOps, CI/CD, OpenTelemetry, Application Insights<br />
+  <strong>Quality:</strong> MSTest, Moq, code review, and Agile delivery
 </details>
 
 ## Beyond code
