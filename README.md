@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Sheshank Chandra</h1>
-  <p>
-    <strong>Software Engineer at Microsoft</strong> building reliable distributed systems with C#, .NET, and Azure.
-  </p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=2500&pause=1500&color=D1D5DB&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sheshank+Chandra!;Welcome+to+my+GitHub!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=2500&pause=1500&color=374151&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sheshank+Chandra!;Welcome+to+my+GitHub!" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=2500&pause=1500&color=374151&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sheshank+Chandra!;Welcome+to+my+GitHub!" alt="Hi, I'm Sheshank Chandra! Welcome to my GitHub!" />
+  </picture>
   <p>
     <a href="https://sshnk.com">
       <img src="https://img.shields.io/badge/Portfolio-sshnk.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio" />
@@ -11,7 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/sshnk/">
-      <img src="https://img.shields.io/badge/LeetCode-sshnk-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+      <img src="https://img.shields.io/badge/LeetCode-sshnk-374151?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile" />
     </a>
     <a href="https://codeforces.com/profile/sheshank10">
       <img src="https://img.shields.io/badge/Codeforces-sheshank10-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces profile" />
@@ -20,37 +21,19 @@
   </p>
 </div>
 
-<div align="center">
-  <a href="#about">About</a>
-  <span> · </span>
-  <a href="#current-focus">Focus</a>
-  <span> · </span>
-  <a href="#featured-project">Project</a>
-  <span> · </span>
-  <a href="#toolbox">Toolbox</a>
-  <span> · </span>
-  <a href="#beyond-code">Beyond code</a>
-</div>
-
----
-
-## About
-
-I am a Software Engineer at Microsoft, where I work on distributed systems with C#, .NET, and Azure. I enjoy turning complex operational needs into clear, maintainable software and designing for reliable production behavior.
-
 ## Current focus
 
-- Building reliable, region-aware workflow systems and service infrastructure.
-- Deepening my practice in distributed systems, resilience, and observability.
-- Strengthening problem-solving skills through competitive programming.
+- Building reliable backend services and developer tools.
+- Learning more about distributed systems, resilience, and observability.
+- Keeping my problem-solving skills sharp through competitive programming.
 
 ## Featured project
 
 ### [EggLedger](https://eggledger.sshnk.com)
 
-A production-ready, multi-tenant expense-sharing platform for roommates. It pairs an ASP.NET Core API and Vue 3 application with PostgreSQL, Docker, .NET Aspire, and Azure Container Apps.
+A multi-tenant expense-sharing app for roommates, built with ASP.NET Core, Vue 3, PostgreSQL, Docker, .NET Aspire, and Azure Container Apps.
 
-[Live app](https://eggledger.sshnk.com) · [Source code](https://github.com/sheshankchandra/EggLedger) · [Portfolio](https://sshnk.com)
+[Live app](https://eggledger.sshnk.com) · [Source code](https://github.com/sheshankchandra/EggLedger)
 
 ## Toolbox
 
@@ -70,7 +53,7 @@ A production-ready, multi-tenant expense-sharing platform for roommates. It pair
 </p>
 
 <details>
-  <summary>Architecture, platform & engineering practices</summary>
+  <summary>More tools & practices</summary>
   <br />
   <strong>Backend:</strong> ASP.NET Core, EF Core, REST APIs, gRPC, dependency injection<br />
   <strong>Architecture:</strong> distributed systems, microservices, event-driven design, DDD, CQRS, clean architecture<br />
@@ -80,7 +63,7 @@ A production-ready, multi-tenant expense-sharing platform for roommates. It pair
 
 ## Beyond code
 
-When I am not building software, you will find me solving algorithmic problems, following Formula 1, or at the gym. I have solved 800+ data-structures-and-algorithms problems.
+Away from code, I follow Formula 1, train at the gym, and solve algorithmic problems. I've completed 800+ data structures and algorithms problems.
 
 <div align="center">
   <picture>
