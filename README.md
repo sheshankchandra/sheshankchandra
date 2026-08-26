@@ -65,6 +65,12 @@ A multi-tenant expense-sharing app for roommates, built with ASP.NET Core, Vue 3
 
 Away from code, I follow Formula 1, train at the gym, and solve algorithmic problems. I've completed 800+ data structures and algorithms problems.
 
+### Todoist activity
+
+<!-- TODO-IST:START -->
+Stats will appear after the first workflow run.
+<!-- TODO-IST:END -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheshankchandra/sheshankchandra/output/github-contribution-grid-snake-dark.svg" />
