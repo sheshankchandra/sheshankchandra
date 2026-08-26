@@ -65,7 +65,8 @@ A multi-tenant expense-sharing app for roommates, built with ASP.NET Core, Vue 3
 
 Away from code, I follow Formula 1, train at the gym, and solve algorithmic problems. I've completed 800+ data structures and algorithms problems.
 
-### Todoist activity
+
+## Todoist activity
 
 <!-- TODO-IST:START -->
 🏆 **13,990** karma points  
