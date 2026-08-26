@@ -68,7 +68,10 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
 ### Todoist activity
 
 <!-- TODO-IST:START -->
-Stats will appear after the first workflow run.
+🏆 **13,990** karma points  
+🌱 **0** tasks completed today  
+✅ **1,953** tasks completed overall  
+⏳ **12 days** longest streak
 <!-- TODO-IST:END -->
 
 <div align="center">
