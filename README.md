@@ -69,9 +69,9 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
 ## Todoist activity
 
 <!-- TODO-IST:START -->
-🏆 **14,117** karma points  
-🌱 **4** tasks completed today  
-✅ **1,980** tasks completed overall  
+🏆 **14,135** karma points  
+🌱 **10** tasks completed today  
+✅ **1,986** tasks completed overall  
 ⏳ **12 days** longest streak
 <!-- TODO-IST:END -->
 
