@@ -17,7 +17,6 @@
     <a href="https://codeforces.com/profile/sheshank10">
       <img src="https://img.shields.io/badge/Codeforces-sheshank10-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces profile" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Views&color=111827&style=flat-square" alt="Profile views" />
   </p>
 </div>
 
@@ -81,6 +80,10 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheshankchandra/sheshankchandra/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/sheshankchandra/sheshankchandra/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Views&color=111827&style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
