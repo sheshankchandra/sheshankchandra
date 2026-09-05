@@ -82,10 +82,12 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
   </picture>
 </div>
 
+## 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Views&color=111827&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Profile Views&color=111827&style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
-  <sub>Open to thoughtful conversations about distributed systems, .NET, Azure, and developer tooling.</sub>
+  <sub>Open to thoughtful conversations about Tech, Career and developer tooling.</sub>
 </div>
