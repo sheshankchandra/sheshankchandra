@@ -20,17 +20,25 @@
   </p>
 </div>
 
+<p align="center">
+  I'm a Software Engineer at Microsoft.
+</p>
+
 ## Current focus
 
-- Building reliable backend services and developer tools.
-- Learning more about distributed systems, resilience, and observability.
-- Keeping my problem-solving skills sharp through competitive programming.
+- Building cloud-native services and developer tools with C#, .NET, and Azure.
+- Working across APIs, frontend experiences, automation, testing, and observability.
+- Exploring practical ways to improve developer productivity and software quality.
 
 ## Featured project
 
 ### [EggLedger](https://eggledger.sshnk.com)
 
-A multi-tenant expense-sharing app for roommates, built with ASP.NET Core, Vue 3, PostgreSQL, Docker, .NET Aspire, and Azure Container Apps.
+A household resource-tracking app for roommates to log shared purchases, split costs automatically, and settle up. Built with ASP.NET Core, Vue 3, PostgreSQL, and .NET Aspire.
+
+- Gamified streaks and consumption stats that turn shared grocery tracking into a habit.
+- Splitwise-style ledger with automatic debt simplification, so no one does the math by hand.
+- Room-based sharing with public/private access, secure auth, and automated testing.
 
 [Live app](https://eggledger.sshnk.com) · [Source code](https://github.com/sheshankchandra/EggLedger)
 
@@ -55,15 +63,19 @@ A multi-tenant expense-sharing app for roommates, built with ASP.NET Core, Vue 3
   <summary>More tools & practices</summary>
   <br />
   <strong>Backend:</strong> ASP.NET Core, EF Core, REST APIs, gRPC, dependency injection<br />
-  <strong>Architecture:</strong> distributed systems, microservices, event-driven design, DDD, CQRS, clean architecture<br />
+  <strong>Architecture:</strong> scalable services, microservices, event-driven design, DDD, CQRS, clean architecture<br />
   <strong>Platform:</strong> .NET Aspire, Azure Container Apps, Azure DevOps, CI/CD, OpenTelemetry, Application Insights<br />
   <strong>Quality:</strong> MSTest, Moq, code review, and Agile delivery
 </details>
 
+## Highlights
+
+- Solved 800+ data structures and algorithms problems.
+- Built event-driven microservices and reliability tooling with .NET, Kafka, and Azure.
+
 ## Beyond code
 
-Away from code, I follow Formula 1, train at the gym, and solve algorithmic problems. I've completed 800+ data structures and algorithms problems.
-
+Away from code, I enjoy photography, follow Formula 1, and train at the gym. I also served as Secretary of the Photography Club at NIT Silchar.
 
 ## Todoist activity
 
@@ -74,6 +86,8 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
 ⏳ **12 days** longest streak
 <!-- TODO-IST:END -->
 
+<sub>Updated automatically by GitHub Actions.</sub>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheshankchandra/sheshankchandra/output/github-contribution-grid-snake-dark.svg" />
@@ -82,12 +96,10 @@ Away from code, I follow Formula 1, train at the gym, and solve algorithmic prob
   </picture>
 </div>
 
-## 
+<p align="center">
+  <sub>Open to thoughtful conversations about technology, careers, and developer tooling.</sub>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Profile Views&color=111827&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-  <sub>Open to thoughtful conversations about Tech, Career and developer tooling.</sub>
 </div>
