@@ -101,5 +101,5 @@ Away from code, I enjoy photography, follow Formula 1, and train at the gym. I a
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Profile Views&color=111827&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sheshankchandra&label=Profile%20Views&color=111827&style=flat-square" alt="Profile views" />
 </div>
