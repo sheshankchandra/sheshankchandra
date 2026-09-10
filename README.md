@@ -81,7 +81,7 @@ Away from code, I enjoy photography, follow Formula 1, and train at the gym. I a
 
 <!-- TODO-IST:START -->
 🏆 **14,519** karma points  
-🌱 **6** tasks completed today  
+🌱 **0** tasks completed today  
 ✅ **2,069** tasks completed overall  
 ⏳ **14 days** longest streak
 <!-- TODO-IST:END -->
