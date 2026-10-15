@@ -80,10 +80,10 @@ Away from code, I enjoy photography, follow Formula 1, and train at the gym. I a
 ## Todoist activity
 
 <!-- TODO-IST:START -->
-🏆 **15,718** karma points  
+🏆 **15,778** karma points  
 🌱 **2** tasks completed today  
-✅ **2,369** tasks completed overall  
-⏳ **25 days** longest streak
+✅ **2,378** tasks completed overall  
+⏳ **26 days** longest streak
 <!-- TODO-IST:END -->
 
 <sub>Updated automatically by GitHub Actions.</sub>
